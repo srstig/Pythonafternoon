@@ -7,13 +7,13 @@ else:
 
 
 #2. A python program that checks whether a letter is a vowel or a consonant
-letter = "z"
+l = "z"
 
-if letter.lower() in ('a', 'e', 'i', 'o', 'u'):
+if l.lower() in ('a', 'e', 'i', 'o', 'u'):
 
   print("Vowel")
 
-elif letter.upper() in ('A', 'E', 'I', 'O', 'U'):
+elif l.upper() in ('A', 'E', 'I', 'O', 'U'):
 
   print("Vowel")
 
