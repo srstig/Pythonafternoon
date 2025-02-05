@@ -6,7 +6,7 @@ print(x + y)
 print(x - y)
 print(x * y)
 print(x / y)
-print(x % y) #odulus - returns the remainder after division
+print(x % y) #modulus - returns the remainder after division
 
 #Comparison Operators
 print(x < y)
